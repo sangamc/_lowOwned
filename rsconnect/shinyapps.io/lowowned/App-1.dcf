@@ -1,0 +1,10 @@
+name: App-1
+account: lowowned
+server: shinyapps.io
+appId: 120188
+bundleId: 533949
+url: https://lowowned.shinyapps.io/App-1/
+when: 1471436555.89348
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/bigorb.png
